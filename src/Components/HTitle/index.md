@@ -4,13 +4,13 @@ nav:
   path: /components
 ---
 
-## Foo
+# HTitle
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'huge-ui';
+import { HTitle } from 'huge-ui';
 
-export default () => <Foo title="First Demo" />;
+export default () => <HTitle title="First Title" />;
 ```
