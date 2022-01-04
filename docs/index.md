@@ -1,7 +1,7 @@
 ---
 hero:
-  title: ui
-  desc: ui site example
+  title: huge-ui
+  desc: huge-ui site example
   actions:
     - text: Getting Started
       link: /components
