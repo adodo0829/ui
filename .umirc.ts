@@ -8,5 +8,8 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   hash: true,
+  // for gh-pages
+  base: '/ui',
+  publicPath: '/ui/',
   // more config: https://d.umijs.org/config
 });

@@ -4,7 +4,7 @@
  */
 
 import React, { useState } from 'react';
-import usePrevious from '..';
+import { usePrevious } from 'huge-ui';
 
 interface Person {
   name: string;

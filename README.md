@@ -1,33 +1,14 @@
-# ui
+# huge-ui
+
+A React Bussiness Components & Hooks lib
+
+## docs
+
+https://appleguardu.github.io/ui/
 
 ## Getting Started
 
-Install dependencies,
-
 ```bash
-$ npm i
-```
+$ npm i huge-ui
 
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Run test,
-
-```bash
-$ npm test
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
 ```
