@@ -1,6 +1,6 @@
 {
   "name": "huge-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react hooks & components library",
   "main": "./lib/index.js",
   "scripts": {
@@ -60,5 +60,11 @@
   "bugs": {
     "url": "https://github.com/appleguardu/ui/issues"
   },
-  "homepage": "https://github.com/appleguardu/ui#readme"
+  "homepage": "https://github.com/appleguardu/ui#readme",
+  "files": [
+    "lib/*",
+    "src/*",
+    "styles/*",
+    "package.json"
+  ]
 }
